@@ -1,2 +1,2 @@
-# Magma3d-Website
+# Magma3D-Website
 Website for the Magma3D game engine
